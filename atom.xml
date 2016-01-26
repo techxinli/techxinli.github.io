@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Xinli's blog]]></title>
   <subtitle><![CDATA[Walk steps step by step]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hello/atom.xml" rel="self"/>
   <link href="http://techxinli.io/"/>
   <updated>2016-01-26T10:02:23.000Z</updated>
   <id>http://techxinli.io/</id>
