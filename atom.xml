@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Walk steps step by step]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://techxinli.io/"/>
-  <updated>2016-01-31T03:03:50.000Z</updated>
+  <updated>2016-01-31T03:50:45.000Z</updated>
   <id>http://techxinli.io/</id>
   
   <author>
@@ -15,27 +15,14 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Unix]]></title>
-    <link href="http://techxinli.io/2016/01/31/Unix-1/"/>
-    <id>http://techxinli.io/2016/01/31/Unix-1/</id>
-    <published>2016-01-31T03:03:50.000Z</published>
-    <updated>2016-01-31T03:03:50.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[Unix && Linux 学习系列文章]]></title>
+    <link href="http://techxinli.io/2016/01/31/Unix-Linux/"/>
+    <id>http://techxinli.io/2016/01/31/Unix-Linux/</id>
+    <published>2016-01-31T03:30:23.000Z</published>
+    <updated>2016-01-31T03:50:45.000Z</updated>
+    <content type="html"><![CDATA[<h6 id="Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55"><a href="#Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55" class="headerlink" title="Unix &amp;&amp; Linux 学习记录"></a>Unix &amp;&amp; Linux 学习记录</h6>]]></content>
     <summary type="html">
-    
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Unix]]></title>
-    <link href="http://techxinli.io/2016/01/31/Unix/"/>
-    <id>http://techxinli.io/2016/01/31/Unix/</id>
-    <published>2016-01-31T03:03:21.000Z</published>
-    <updated>2016-01-31T03:03:21.000Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
+    <![CDATA[<h6 id="Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55"><a href="#Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55" class="hea]]>
     </summary>
     
   </entry>
