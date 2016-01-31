@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Walk steps step by step]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://techxinli.io/"/>
-  <updated>2016-01-26T10:02:23.000Z</updated>
+  <updated>2016-01-31T03:03:50.000Z</updated>
   <id>http://techxinli.io/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Unix]]></title>
+    <link href="http://techxinli.io/2016/01/31/Unix-1/"/>
+    <id>http://techxinli.io/2016/01/31/Unix-1/</id>
+    <published>2016-01-31T03:03:50.000Z</published>
+    <updated>2016-01-31T03:03:50.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Unix]]></title>
+    <link href="http://techxinli.io/2016/01/31/Unix/"/>
+    <id>http://techxinli.io/2016/01/31/Unix/</id>
+    <published>2016-01-31T03:03:21.000Z</published>
+    <updated>2016-01-31T03:03:21.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
