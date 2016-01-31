@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Walk steps step by step]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://techxinli.io/"/>
-  <updated>2016-01-31T03:50:45.000Z</updated>
+  <updated>2016-01-31T09:56:41.000Z</updated>
   <id>http://techxinli.io/</id>
   
   <author>
@@ -15,14 +15,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Unix && Linux 学习系列文章]]></title>
+    <title><![CDATA[Unix && Linux 的发展]]></title>
+    <link href="http://techxinli.io/2016/01/31/Unix-Linux-%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
+    <id>http://techxinli.io/2016/01/31/Unix-Linux-学习系列文章/</id>
+    <published>2016-01-31T09:54:46.000Z</published>
+    <updated>2016-01-31T09:56:41.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Unix && Linux 命令行操作总结]]></title>
     <link href="http://techxinli.io/2016/01/31/Unix-Linux/"/>
     <id>http://techxinli.io/2016/01/31/Unix-Linux/</id>
     <published>2016-01-31T03:30:23.000Z</published>
-    <updated>2016-01-31T03:50:45.000Z</updated>
-    <content type="html"><![CDATA[<h6 id="Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55"><a href="#Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55" class="headerlink" title="Unix &amp;&amp; Linux 学习记录"></a>Unix &amp;&amp; Linux 学习记录</h6>]]></content>
+    <updated>2016-01-31T09:57:01.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u8FD9_u7BC7_u6587_u7AE0_u5F00_u59CB_u6211_u4F1A_u5F00_u59CB_u603B_u7ED3_u5728_u81EA_u5DF1_u5B66_u4E60_u8FC7_u7A0B_u4E2D_u5173_u4E8ECLI_28_u547D_u4EE4_u884C_u754C_u9762_29_u5E38_u7528_u7684_u547D_u4EE4_u884C_u64CD_u4F5C"><a href="#u8FD9_u7BC7_u6587_u7AE0_u5F00_u59CB_u6211_u4F1A_u5F00_u59CB_u603B_u7ED3_u5728_u81EA_u5DF1_u5B66_u4E60_u8FC7_u7A0B_u4E2D_u5173_u4E8ECLI_28_u547D_u4EE4_u884C_u754C_u9762_29_u5E38_u7528_u7684_u547D_u4EE4_u884C_u64CD_u4F5C" class="headerlink" title="这篇文章开始我会开始总结在自己学习过程中关于CLI(命令行界面)常用的命令行操作"></a><code>这篇文章开始我会开始总结在自己学习过程中关于CLI(命令行界面)常用的命令行操作</code></h1><h6 id="Unix__26amp_3B_26amp_3B_Linux__u5E38_u7528_u547D_u4EE4_u884C_u64CD_u4F5C"><a href="#Unix__26amp_3B_26amp_3B_Linux__u5E38_u7528_u547D_u4EE4_u884C_u64CD_u4F5C" class="headerlink" title="Unix &amp;&amp; Linux 常用命令行操作"></a>Unix &amp;&amp; Linux 常用命令行操作</h6><ul>
+<li>login、logout、exit、passwd、last、su、root、sudo</li>
+<li>less(b,h,q)、init、reboot、shutdown、dmesg</li>
+<li>tty、pwd、infocmp、echo、printenv</li>
+<li>erase、werase、kill、intr、quit、stop、start、eof(IGNOREEOF)</li>
+<li>stty(-a)、stty sane、reset</li>
+<li>man</li>
+</ul>
+<h6 id="u7CFB_u7EDF_u80FD_u4F7F_u7528_u7684_u7A0B_u5E8F"><a href="#u7CFB_u7EDF_u80FD_u4F7F_u7528_u7684_u7A0B_u5E8F" class="headerlink" title="系统能使用的程序"></a>系统能使用的程序</h6><ul>
+<li>which、type、whence</li>
+<li>date、cal(-j)、calendar</li>
+<li>uptime、hostname、uname</li>
+<li>whoami、who、w、users、quota</li>
+<li>lock、leave</li>
+<li>bc</li>
+</ul>
+]]></content>
     <summary type="html">
-    <![CDATA[<h6 id="Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55"><a href="#Unix__26amp_3B_26amp_3B_Linux__u5B66_u4E60_u8BB0_u5F55" class="hea]]>
+    <![CDATA[<h1 id="u8FD9_u7BC7_u6587_u7AE0_u5F00_u59CB_u6211_u4F1A_u5F00_u59CB_u603B_u7ED3_u5728_u81EA_u5DF1_u5B66_u4E60_u8FC7_u7A0B_u4E2D_u5173_u4E8EC]]>
     </summary>
     
   </entry>
